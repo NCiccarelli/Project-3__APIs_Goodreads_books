@@ -16,10 +16,10 @@ This Jupyter notebook has one main goal. The goal is to show information -i.e., 
 
 The Jupyter notebook comprises the following sections:
 
-    In section 1 we create a dataframe for the Kaggle dataset. Since retrieving data from the APIs is highly time-consuming, we exclusively use the 100 books with the highest rating included in the Kaggle dataset.
+   In section 1 we create a dataframe for the Kaggle dataset. Since retrieving data from the APIs is highly time-consuming, we exclusively use the 100 books with the highest rating included in the Kaggle dataset.
 
-    In section 2 we import data from the "Open Library Books API": We import data about the publisher of each book and we import the publication date.
+   In section 2 we import data from the "Open Library Books API": We import data about the publisher of each book and we import the publication date.
 
-    In section 3 we use the "Open Library Covers API" to retrieve and download the book covers for the 100 books.
+   In section 3 we use the "Open Library Covers API" to retrieve and download the book covers for the 100 books.
 
-    In section 4 we show information for each of the 100 books in this notebook. The information that we add in the notebook are the title, author, rating, publisher, publication date, book cover for each of the 100 books.
+   In section 4 we show information for each of the 100 books in this notebook. The information that we add in the notebook are the title, author, rating, publisher, publication date, book cover for each of the 100 books.
